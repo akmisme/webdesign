@@ -1,0 +1,9 @@
+footer {
+    background: #6F4E37;
+}
+footer .copy{
+    padding: 1rem;
+    margin-top: 2rem;
+    color: #ffecec;
+    text-transform: uppercase;
+}
